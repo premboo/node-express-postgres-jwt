@@ -1,10 +1,10 @@
 {
-  "name": "node-session1",
+  "name": "node-sexpress-postgres-jwt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon ./bin/www",
+    "start": "nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Premkumar Palanisamy",

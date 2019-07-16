@@ -17,8 +17,3 @@ module.exports = {
         });
     }
 };
-
-// include: [{
-//     model: Client,
-//     as: 'clients',
-// }]
